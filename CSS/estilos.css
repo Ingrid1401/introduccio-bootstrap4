@@ -1,0 +1,10 @@
+input{
+    padding:1%;
+    border-color: #B71C1C;
+    margin: 1%;
+    color: rgb(59, 5, 255);
+}
+label{
+    color: #ff00f7;
+    font-size: x-large;
+}
